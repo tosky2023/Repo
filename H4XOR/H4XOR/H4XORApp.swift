@@ -10,9 +10,9 @@ import SwiftUI
 @main
 struct H4XORApp: App {
     var body: some Scene {
-        WindowGroup {
+        WindowGroup<<#Content: View#>> {
             ContentView()
         }
     }
 }
-asldjflajsdfl;a;sldfjl
+
